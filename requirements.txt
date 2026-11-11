@@ -4,7 +4,3 @@ sqlparse==0.6.0
 tzdata==2026.5
 
 
-# Usuario oscar
-# email julio123@gmail.com
-# contaseña 123456789
-# URL https://github.com/oscarjulio076-bit/parcial-django
